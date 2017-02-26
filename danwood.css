@@ -1,0 +1,88 @@
+                              /* css for manufactures websites - 2nd September 2015 - phil welsby*/
+body  {
+    font-size: small;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+    background-color: #948E94
+}
+
+.header  {
+    color: #000000;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+div#tableContainer  {
+    display: table;
+    border: thin solid #555555;
+    margin: 30px 20px 0px 20px;
+    width: 75%;
+}
+
+div#tableRow1  {
+    display: table-row;
+}
+#cell1 {
+    display: table-cell;
+}
+#cell2 {
+    display: table-cell;
+}
+#cell3 {
+    display: table-cell;
+}
+
+
+div#tableRow2 {
+    display :table-row;
+}
+#cell4 {
+    display: table-cell;
+}
+#cell5 {
+    display: table-cell;
+}
+#cell6 {
+    display: table-cell;
+}
+
+div#tableRow3  {
+    display:  table-row;
+}
+
+#cell7  {
+    display: table-cell;
+}
+
+#cell8  {
+    display: table-cell;
+}
+
+#cell9  {
+    display: table-cell;
+}
+
+
+a:link  {
+    color: #0033cc;
+}
+
+a:visited {
+    color: red;
+}
+
+#batman  {
+     position: absolute;
+     top: 12px;
+     right: 30px;
+}   
+
+#footer  {
+    font-size: 65%;
+    text-align:	center;
+    line-height: normal;
+    margin-top:	30px;
+}
+
+
+
